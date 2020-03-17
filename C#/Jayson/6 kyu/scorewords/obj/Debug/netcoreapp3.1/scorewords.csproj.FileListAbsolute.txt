@@ -1,0 +1,11 @@
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\obj\Debug\netcoreapp3.1\scorewords.csprojAssemblyReference.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\obj\Debug\netcoreapp3.1\scorewords.AssemblyInfoInputs.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\obj\Debug\netcoreapp3.1\scorewords.AssemblyInfo.cs
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\bin\Debug\netcoreapp3.1\scorewords.exe
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\bin\Debug\netcoreapp3.1\scorewords.deps.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\bin\Debug\netcoreapp3.1\scorewords.runtimeconfig.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\bin\Debug\netcoreapp3.1\scorewords.runtimeconfig.dev.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\bin\Debug\netcoreapp3.1\scorewords.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\bin\Debug\netcoreapp3.1\scorewords.pdb
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\obj\Debug\netcoreapp3.1\scorewords.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\scorewords\obj\Debug\netcoreapp3.1\scorewords.pdb

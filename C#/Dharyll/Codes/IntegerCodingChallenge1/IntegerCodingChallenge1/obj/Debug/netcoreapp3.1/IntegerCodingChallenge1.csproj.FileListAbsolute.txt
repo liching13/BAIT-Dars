@@ -1,0 +1,11 @@
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\bin\Debug\netcoreapp3.1\IntegerCodingChallenge1.exe
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\bin\Debug\netcoreapp3.1\IntegerCodingChallenge1.deps.json
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\bin\Debug\netcoreapp3.1\IntegerCodingChallenge1.runtimeconfig.json
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\bin\Debug\netcoreapp3.1\IntegerCodingChallenge1.runtimeconfig.dev.json
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\bin\Debug\netcoreapp3.1\IntegerCodingChallenge1.dll
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\bin\Debug\netcoreapp3.1\IntegerCodingChallenge1.pdb
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\obj\Debug\netcoreapp3.1\IntegerCodingChallenge1.csprojAssemblyReference.cache
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\obj\Debug\netcoreapp3.1\IntegerCodingChallenge1.AssemblyInfoInputs.cache
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\obj\Debug\netcoreapp3.1\IntegerCodingChallenge1.AssemblyInfo.cs
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\obj\Debug\netcoreapp3.1\IntegerCodingChallenge1.dll
+C:\Users\dcalaliman\source\repos\IntegerCodingChallenge1\IntegerCodingChallenge1\obj\Debug\netcoreapp3.1\IntegerCodingChallenge1.pdb

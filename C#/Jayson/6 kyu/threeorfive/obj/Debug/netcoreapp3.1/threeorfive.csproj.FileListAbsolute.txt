@@ -1,0 +1,11 @@
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\bin\Debug\netcoreapp3.1\threeorfive.exe
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\bin\Debug\netcoreapp3.1\threeorfive.deps.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\bin\Debug\netcoreapp3.1\threeorfive.runtimeconfig.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\bin\Debug\netcoreapp3.1\threeorfive.runtimeconfig.dev.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\bin\Debug\netcoreapp3.1\threeorfive.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\bin\Debug\netcoreapp3.1\threeorfive.pdb
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\obj\Debug\netcoreapp3.1\threeorfive.csprojAssemblyReference.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\obj\Debug\netcoreapp3.1\threeorfive.AssemblyInfoInputs.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\obj\Debug\netcoreapp3.1\threeorfive.AssemblyInfo.cs
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\obj\Debug\netcoreapp3.1\threeorfive.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\threeorfive\obj\Debug\netcoreapp3.1\threeorfive.pdb

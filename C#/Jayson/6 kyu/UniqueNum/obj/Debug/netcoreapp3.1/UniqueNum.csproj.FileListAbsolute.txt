@@ -1,0 +1,11 @@
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\obj\Debug\netcoreapp3.1\UniqueNum.csprojAssemblyReference.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\obj\Debug\netcoreapp3.1\UniqueNum.AssemblyInfoInputs.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\obj\Debug\netcoreapp3.1\UniqueNum.AssemblyInfo.cs
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\bin\Debug\netcoreapp3.1\UniqueNum.exe
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\bin\Debug\netcoreapp3.1\UniqueNum.deps.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\bin\Debug\netcoreapp3.1\UniqueNum.runtimeconfig.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\bin\Debug\netcoreapp3.1\UniqueNum.runtimeconfig.dev.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\bin\Debug\netcoreapp3.1\UniqueNum.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\bin\Debug\netcoreapp3.1\UniqueNum.pdb
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\obj\Debug\netcoreapp3.1\UniqueNum.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\UniqueNum\obj\Debug\netcoreapp3.1\UniqueNum.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SumOfMulitpleCoding Challenge5/1.0.0": {
+        "runtime": {
+          "SumOfMulitpleCoding Challenge5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumOfMulitpleCoding Challenge5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

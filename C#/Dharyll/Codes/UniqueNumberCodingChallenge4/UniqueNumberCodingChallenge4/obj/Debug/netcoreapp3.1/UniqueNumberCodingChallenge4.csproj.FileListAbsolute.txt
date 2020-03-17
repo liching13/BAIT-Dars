@@ -1,0 +1,11 @@
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\bin\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.exe
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\bin\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.deps.json
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\bin\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.runtimeconfig.json
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\bin\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.runtimeconfig.dev.json
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\bin\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.dll
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\bin\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.pdb
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\obj\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.csprojAssemblyReference.cache
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\obj\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.AssemblyInfoInputs.cache
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\obj\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.AssemblyInfo.cs
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\obj\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.dll
+C:\Users\dcalaliman\source\repos\UniqueNumberCodingChallenge4\UniqueNumberCodingChallenge4\obj\Debug\netcoreapp3.1\UniqueNumberCodingChallenge4.pdb

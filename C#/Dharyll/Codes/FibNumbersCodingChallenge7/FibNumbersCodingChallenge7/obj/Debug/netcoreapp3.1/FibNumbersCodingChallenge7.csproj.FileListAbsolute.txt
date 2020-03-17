@@ -1,0 +1,11 @@
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\bin\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.exe
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\bin\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.deps.json
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\bin\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.runtimeconfig.json
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\bin\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.runtimeconfig.dev.json
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\bin\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.dll
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\bin\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.pdb
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\obj\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.csprojAssemblyReference.cache
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\obj\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.AssemblyInfoInputs.cache
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\obj\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.AssemblyInfo.cs
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\obj\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.dll
+C:\Users\dcalaliman\source\repos\FibNumbersCodingChallenge7\FibNumbersCodingChallenge7\obj\Debug\netcoreapp3.1\FibNumbersCodingChallenge7.pdb

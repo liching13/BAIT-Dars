@@ -1,0 +1,11 @@
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\obj\Debug\netcoreapp3.1\MissingLetter.csprojAssemblyReference.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\obj\Debug\netcoreapp3.1\MissingLetter.AssemblyInfoInputs.cache
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\obj\Debug\netcoreapp3.1\MissingLetter.AssemblyInfo.cs
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\bin\Debug\netcoreapp3.1\MissingLetter.exe
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\bin\Debug\netcoreapp3.1\MissingLetter.deps.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\bin\Debug\netcoreapp3.1\MissingLetter.runtimeconfig.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\bin\Debug\netcoreapp3.1\MissingLetter.runtimeconfig.dev.json
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\bin\Debug\netcoreapp3.1\MissingLetter.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\bin\Debug\netcoreapp3.1\MissingLetter.pdb
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\obj\Debug\netcoreapp3.1\MissingLetter.dll
+C:\Users\jconcepcion\Desktop\Codewars\codewars_code\C#\6 kyu\MissingLetter\obj\Debug\netcoreapp3.1\MissingLetter.pdb

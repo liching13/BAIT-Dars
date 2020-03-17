@@ -1,0 +1,11 @@
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\bin\Debug\netcoreapp3.1\PigLatinCodingChallenge2.exe
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\bin\Debug\netcoreapp3.1\PigLatinCodingChallenge2.deps.json
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\bin\Debug\netcoreapp3.1\PigLatinCodingChallenge2.runtimeconfig.json
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\bin\Debug\netcoreapp3.1\PigLatinCodingChallenge2.runtimeconfig.dev.json
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\bin\Debug\netcoreapp3.1\PigLatinCodingChallenge2.dll
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\bin\Debug\netcoreapp3.1\PigLatinCodingChallenge2.pdb
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\obj\Debug\netcoreapp3.1\PigLatinCodingChallenge2.csprojAssemblyReference.cache
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\obj\Debug\netcoreapp3.1\PigLatinCodingChallenge2.AssemblyInfoInputs.cache
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\obj\Debug\netcoreapp3.1\PigLatinCodingChallenge2.AssemblyInfo.cs
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\obj\Debug\netcoreapp3.1\PigLatinCodingChallenge2.dll
+C:\Users\dcalaliman\source\repos\PigLatinCodingChallenge2\PigLatinCodingChallenge2\obj\Debug\netcoreapp3.1\PigLatinCodingChallenge2.pdb

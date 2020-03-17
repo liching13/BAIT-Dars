@@ -1,0 +1,11 @@
+C:\Users\aagulay\source\repos\Persistence\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\aagulay\source\repos\Persistence\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\aagulay\source\repos\Persistence\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\aagulay\source\repos\Persistence\Persistence\bin\Debug\netcoreapp3.1\Persistence.exe
+C:\Users\aagulay\source\repos\Persistence\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\aagulay\source\repos\Persistence\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+C:\Users\aagulay\source\repos\Persistence\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+C:\Users\aagulay\source\repos\Persistence\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\aagulay\source\repos\Persistence\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\aagulay\source\repos\Persistence\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\aagulay\source\repos\Persistence\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
