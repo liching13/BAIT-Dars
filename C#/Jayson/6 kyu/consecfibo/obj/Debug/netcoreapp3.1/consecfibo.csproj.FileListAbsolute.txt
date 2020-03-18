@@ -1,0 +1,11 @@
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\bin\Debug\netcoreapp3.1\consecfibo.exe
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\bin\Debug\netcoreapp3.1\consecfibo.deps.json
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\bin\Debug\netcoreapp3.1\consecfibo.runtimeconfig.json
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\bin\Debug\netcoreapp3.1\consecfibo.runtimeconfig.dev.json
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\bin\Debug\netcoreapp3.1\consecfibo.dll
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\bin\Debug\netcoreapp3.1\consecfibo.pdb
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\obj\Debug\netcoreapp3.1\consecfibo.csprojAssemblyReference.cache
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\obj\Debug\netcoreapp3.1\consecfibo.AssemblyInfoInputs.cache
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\obj\Debug\netcoreapp3.1\consecfibo.AssemblyInfo.cs
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\obj\Debug\netcoreapp3.1\consecfibo.dll
+C:\Users\jconcepcion\Desktop\Git\azure\bait2020\C#\Jayson\6 kyu\consecfibo\obj\Debug\netcoreapp3.1\consecfibo.pdb

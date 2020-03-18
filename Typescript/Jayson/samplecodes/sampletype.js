@@ -1,0 +1,2 @@
+let font;
+font = 'bold';
