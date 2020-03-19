@@ -1,0 +1,11 @@
+C:\Projects\bait2020\C#\Jayson\kangaroo\bin\Debug\netcoreapp3.1\kangaroo.exe
+C:\Projects\bait2020\C#\Jayson\kangaroo\bin\Debug\netcoreapp3.1\kangaroo.deps.json
+C:\Projects\bait2020\C#\Jayson\kangaroo\bin\Debug\netcoreapp3.1\kangaroo.runtimeconfig.json
+C:\Projects\bait2020\C#\Jayson\kangaroo\bin\Debug\netcoreapp3.1\kangaroo.runtimeconfig.dev.json
+C:\Projects\bait2020\C#\Jayson\kangaroo\bin\Debug\netcoreapp3.1\kangaroo.dll
+C:\Projects\bait2020\C#\Jayson\kangaroo\bin\Debug\netcoreapp3.1\kangaroo.pdb
+C:\Projects\bait2020\C#\Jayson\kangaroo\obj\Debug\netcoreapp3.1\kangaroo.csprojAssemblyReference.cache
+C:\Projects\bait2020\C#\Jayson\kangaroo\obj\Debug\netcoreapp3.1\kangaroo.AssemblyInfoInputs.cache
+C:\Projects\bait2020\C#\Jayson\kangaroo\obj\Debug\netcoreapp3.1\kangaroo.AssemblyInfo.cs
+C:\Projects\bait2020\C#\Jayson\kangaroo\obj\Debug\netcoreapp3.1\kangaroo.dll
+C:\Projects\bait2020\C#\Jayson\kangaroo\obj\Debug\netcoreapp3.1\kangaroo.pdb

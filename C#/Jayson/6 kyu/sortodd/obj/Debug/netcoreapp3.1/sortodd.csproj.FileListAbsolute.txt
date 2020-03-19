@@ -1,0 +1,11 @@
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\bin\Debug\netcoreapp3.1\sortodd.exe
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\bin\Debug\netcoreapp3.1\sortodd.deps.json
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\bin\Debug\netcoreapp3.1\sortodd.runtimeconfig.json
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\bin\Debug\netcoreapp3.1\sortodd.runtimeconfig.dev.json
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\bin\Debug\netcoreapp3.1\sortodd.dll
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\bin\Debug\netcoreapp3.1\sortodd.pdb
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\obj\Debug\netcoreapp3.1\sortodd.csprojAssemblyReference.cache
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\obj\Debug\netcoreapp3.1\sortodd.AssemblyInfoInputs.cache
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\obj\Debug\netcoreapp3.1\sortodd.AssemblyInfo.cs
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\obj\Debug\netcoreapp3.1\sortodd.dll
+C:\Projects\bait2020\C#\Jayson\6 kyu\sortodd\obj\Debug\netcoreapp3.1\sortodd.pdb
