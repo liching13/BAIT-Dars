@@ -1,0 +1,11 @@
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\bin\Debug\netcoreapp3.1\KangarooCodingChallenge8.exe
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\bin\Debug\netcoreapp3.1\KangarooCodingChallenge8.deps.json
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\bin\Debug\netcoreapp3.1\KangarooCodingChallenge8.runtimeconfig.json
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\bin\Debug\netcoreapp3.1\KangarooCodingChallenge8.runtimeconfig.dev.json
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\bin\Debug\netcoreapp3.1\KangarooCodingChallenge8.dll
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\bin\Debug\netcoreapp3.1\KangarooCodingChallenge8.pdb
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\obj\Debug\netcoreapp3.1\KangarooCodingChallenge8.csprojAssemblyReference.cache
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\obj\Debug\netcoreapp3.1\KangarooCodingChallenge8.AssemblyInfoInputs.cache
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\obj\Debug\netcoreapp3.1\KangarooCodingChallenge8.AssemblyInfo.cs
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\obj\Debug\netcoreapp3.1\KangarooCodingChallenge8.dll
+C:\Users\dcalaliman\source\repos\KangarooCodingChallenge8\KangarooCodingChallenge8\obj\Debug\netcoreapp3.1\KangarooCodingChallenge8.pdb

@@ -1,0 +1,11 @@
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\bin\Debug\netcoreapp3.1\TrainCodingChallenge9.exe
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\bin\Debug\netcoreapp3.1\TrainCodingChallenge9.deps.json
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\bin\Debug\netcoreapp3.1\TrainCodingChallenge9.runtimeconfig.json
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\bin\Debug\netcoreapp3.1\TrainCodingChallenge9.runtimeconfig.dev.json
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\bin\Debug\netcoreapp3.1\TrainCodingChallenge9.dll
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\bin\Debug\netcoreapp3.1\TrainCodingChallenge9.pdb
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\obj\Debug\netcoreapp3.1\TrainCodingChallenge9.csprojAssemblyReference.cache
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\obj\Debug\netcoreapp3.1\TrainCodingChallenge9.AssemblyInfoInputs.cache
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\obj\Debug\netcoreapp3.1\TrainCodingChallenge9.AssemblyInfo.cs
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\obj\Debug\netcoreapp3.1\TrainCodingChallenge9.dll
+C:\Users\dcalaliman\source\repos\TrainCodingChallenge9\TrainCodingChallenge9\obj\Debug\netcoreapp3.1\TrainCodingChallenge9.pdb
