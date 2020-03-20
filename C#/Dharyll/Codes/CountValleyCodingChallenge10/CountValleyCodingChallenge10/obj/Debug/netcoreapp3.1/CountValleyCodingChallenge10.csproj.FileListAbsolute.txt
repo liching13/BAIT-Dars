@@ -1,0 +1,11 @@
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\bin\Debug\netcoreapp3.1\CountValleyCodingChallenge10.exe
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\bin\Debug\netcoreapp3.1\CountValleyCodingChallenge10.deps.json
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\bin\Debug\netcoreapp3.1\CountValleyCodingChallenge10.runtimeconfig.json
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\bin\Debug\netcoreapp3.1\CountValleyCodingChallenge10.runtimeconfig.dev.json
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\bin\Debug\netcoreapp3.1\CountValleyCodingChallenge10.dll
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\bin\Debug\netcoreapp3.1\CountValleyCodingChallenge10.pdb
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\obj\Debug\netcoreapp3.1\CountValleyCodingChallenge10.csprojAssemblyReference.cache
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\obj\Debug\netcoreapp3.1\CountValleyCodingChallenge10.AssemblyInfoInputs.cache
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\obj\Debug\netcoreapp3.1\CountValleyCodingChallenge10.AssemblyInfo.cs
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\obj\Debug\netcoreapp3.1\CountValleyCodingChallenge10.dll
+C:\Users\dcalaliman\source\repos\CountValleyCodingChallenge10\CountValleyCodingChallenge10\obj\Debug\netcoreapp3.1\CountValleyCodingChallenge10.pdb
